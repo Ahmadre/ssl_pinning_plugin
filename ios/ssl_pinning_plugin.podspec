@@ -14,6 +14,7 @@ A new flutter plugin project.
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
+  s.swift_version = '4.1'
   s.dependency 'Flutter'
   s.dependency 'CryptoSwift'
   s.dependency 'Alamofire', '~> 4.7'
